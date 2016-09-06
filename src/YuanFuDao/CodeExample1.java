@@ -38,6 +38,12 @@ public class CodeExample1 {
 		arr.add(-1);
 		arr.add(1);
 		arr.add(1);
+		arr.add(1);
+		arr.add(1);
+		arr.add(1);
+		arr.add(-1);
+		arr.add(1);
+		arr.add(-1);
 		System.out.println(findMaxCrossingSubArray(arr));
 	}
 }
